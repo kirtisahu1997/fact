@@ -1,3 +1,6 @@
 rt.log.txt
 raju.txt
 dir/
+*.log
+error.log
+node_modules
